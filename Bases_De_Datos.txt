@@ -3,4 +3,5 @@ Apuntes de Bases de Datos
 Ud1.- SGBD
 UD2.- SQL
 UD3.- PL-SQL
-UD4.- BD Documentales
+UD4.- BD No-SQL
+
